@@ -16,7 +16,7 @@ Scraping the replies to each tweet was very challenging and time-consuming.
 ## Accomplishments that we're proud of  
 We were able to navigate tweets based on the topic "Mental Health" and scrape comments for each of the tweets.
 
-## What we learned  
+## What we learned ?  
 We learned that there are some tweets where people express negativity and that needs to be addressed. We learnt a ton of new libraries, packages and tools such as Deepnote and Selenium.
 
 ## What's next for Tweety  
