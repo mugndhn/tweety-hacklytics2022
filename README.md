@@ -1,8 +1,10 @@
 # tweety-Hacklytics-2022
-Tweety - an NLP based tool used to study the replies to tweets created by Harini Narasimhan, Michael Murillo-Martinez, Mugundhan Murugesan  
+Tweety - an NLP based tool used to study the replies to tweets created by Harini Narasimhan, Michael Murillo-Martinez, Mugundhan Murugesan as a part the Hacklytics 2022 (https://hacklytics.io/) and won "Top 6 Hacks" and "Best ML hack in Deepnote" awards.
 
 ## Inspiration  
-Expression: One of the first steps of mental health and well being​A common fear among people posting on social media is that someone will have a strong negative reaction to something you share.​These comments have a negative impact on the mood of the user. What if there are negative comments on a user posting about mental health problems. It may push them over the edge.​
+Expression: One of the first steps of mental health and well being.  
+A common fear among people posting on social media is that someone will have a strong negative reaction to something you share.  
+These comments have a negative impact on the mood of the user. What if there are negative comments on a user posting about mental health problems, it may push them over the edge.
 
 ## What it does  
 The tool finds tweets about Mental Health and collects replies for each tweet. If the tweet has an overall of negative replies, a chatbox replies to the user tweet with a positive message to help them feel better.
@@ -30,3 +32,5 @@ nerodia
 python  
 selenium  
 sentiment-analysis-online  
+
+Link to the project on Devpost: https://devpost.com/software/tweety-7r682q?ref_content=my-projects-tab&ref_feature=my_projects
